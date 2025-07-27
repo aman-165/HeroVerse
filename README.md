@@ -85,10 +85,9 @@ HeroVerse/<br>
 
 ---
 
-## 👤 Author
-Aman Patel
+## 👨‍💻 Author
 
-GitHub: @aman-165
+Developed by [Aman-165](https://github.com/aman-165)
 
 ---
 

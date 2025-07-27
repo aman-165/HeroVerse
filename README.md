@@ -62,12 +62,49 @@ HeroVerse/<br>
    ```bash
    git clone https://github.com/aman-165/HeroVerse.git
 2. **Navigate to the folder**
-  ```bash
+   ```bash
    cd HeroVerse
-
-3.Open index.html in your browser
+   
+3 **Open index.html in your browser**
 
 - No build tools required
 
 - Make sure images are in the images/ folder
+  
+
+---
+
+## ✨ Future Enhancements
+
+- Add more Marvel heroes dynamically
+- Connect to Marvel API to fetch real hero data
+- Add hero transition animation on change (e.g. fade or slide)
+- Make design fully mobile responsive
+- Add background audio or sound effects
+
+
+---
+
+## 👤 Author
+Aman Patel
+
+GitHub: @aman-165
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
+---
+
+## 🙌 Contributing
+Pull requests are welcome.
+If you'd like to add more heroes or enhance the UI/UX, feel free to contribute!
+
+  
+
+
+   
+
+
 
